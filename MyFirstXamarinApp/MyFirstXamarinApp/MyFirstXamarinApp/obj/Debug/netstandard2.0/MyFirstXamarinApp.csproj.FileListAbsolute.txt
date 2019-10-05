@@ -1,0 +1,11 @@
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\MyFirstXamarinApp.deps.json
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\MyFirstXamarinApp.dll
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\MyFirstXamarinApp.pdb
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.csprojAssemblyReference.cache
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.AssemblyInfoInputs.cache
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.AssemblyInfo.cs
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.dll
+D:\IDB UPDATE 18042019\Xamarin\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.pdb
